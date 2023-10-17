@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.2",
+    "nodemon": "^3.0.1",
+    "sequelize": "^6.33.0"
+  },
+  "name": "tfapp",
+  "version": "1.0.0",
+  "main": "herramientas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
