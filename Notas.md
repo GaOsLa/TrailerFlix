@@ -13,9 +13,8 @@ en el mismo ud podra encontrar
         * vwCatGen.js
 * *archivo:* esquema_BBDD.pdf
 * *archivo:* generar_Trailerflix.sql
-* *archivo:* .env --> a completar con sus datos de coneccion
 * *archivo:* server.js --> donde se encuentran los distintos endpoints solicitados en la consigna
-*  *archivo:* ' Readme .mk'
+*  *archivo:* ' LEER.md'
 
 ## BASE DE DATOS
 Nombre: *trailerflix*
